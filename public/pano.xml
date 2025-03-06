@@ -18,21 +18,21 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" textalpha="1" bordercolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" background="1" enabled="1" textcolor="0x000000" height="20" borderalpha="1" borderradius="1" wordwrap="1"/>
       <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
-      <hotspot tilt="-60.69" pan="-348.54" url="" description="Superficie Ha: 6,667&#xa;" id="2" title="2" target="_blank" skinid="ht_disponible"/>
-      <hotspot tilt="-55.91" pan="0.5" url="" description="Superficie Ha: 6,667" id="2 A" title="2 A" target="_blank" skinid="ht_disponible"/>
-      <hotspot tilt="-62.75" pan="-6.87" url="" description="Superficie Ha: 6,667" id="2 B" title="2 B" target="_blank" skinid="ht_disponible"/>
-      <hotspot tilt="-75.06" pan="-327.98" url="" description="Superficie Ha: 6,667&#xa;" id="2 C" title="2 C" target="_blank" skinid="ht_disponible"/>
-      <hotspot tilt="-70.71" pan="-353.97" url="" description="Superficie Ha: 6,667&#xa;" id="2 D" title="2 D" target="_blank" skinid="ht_disponible"/>
-      <hotspot tilt="-76.53" pan="-9.61" url="" description="Superficie Ha: 6,667&#xa;" id="2 E" title="2 E" target="_blank" skinid="ht_disponible"/>
-      <hotspot tilt="-78.86" pan="-254.17" url="" description="Superficie Ha: 6,667&#xa;" id="2 F" title="2 F" target="_blank" skinid="ht_disponible"/>
-      <hotspot tilt="-83.97" pan="-321.74" url="" description="Superficie Ha: 6,667&#xa;" id="2 G" title="2 G" target="_blank" skinid="ht_disponible"/>
-      <hotspot tilt="-83.59" pan="-170.54" url="" description="Superficie Ha: 6,667&#xa;" id="2 H" title="2 H" target="_blank" skinid="ht_disponible"/>
-      <hotspot tilt="-63.21" pan="-206.55" url="" description="Superficie Ha: 6,667&#xa;" id="2 I" title="2 I" target="_blank" skinid="ht_disponible"/>
-      <hotspot tilt="-74.87" pan="-199.85" url="" description="Superficie Ha: 6,667&#xa;" id="2 J" title="2 J" target="_blank" skinid="ht_disponible"/>
-      <hotspot tilt="-65.43" pan="-179.4" url="" description="Superficie Ha: 6,667&#xa;" id="2 K" title="2 K" target="_blank" skinid="ht_disponible"/>
-      <hotspot tilt="-48.69" pan="-199.35" url="" description="Superficie Ha: 10,332" id="2 L" title="2 L" target="_blank" skinid="ht_disponible"/>
-      <hotspot tilt="-42.76" pan="-190" url="" description="Superficie Ha: 10,332" id="2 M" title="2 M" target="_blank" skinid="ht_disponible"/>
-      <hotspot tilt="-50.68" pan="-179.93" url="" description="Superficie Ha: 10,332" id="2 N" title="2 N" target="_blank" skinid="ht_disponible"/>
+      <hotspot tilt="-60.69" pan="-348.54" url="" description="Superficie Ha: 6,667&#xa;" id="1" title="1" target="_blank" skinid="ht_disponible"/>
+      <hotspot tilt="-55.91" pan="0.5" url="" description="Superficie Ha: 6,667" id="2" title="2" target="_blank" skinid="ht_disponible"/>
+      <hotspot tilt="-62.75" pan="-6.87" url="" description="Superficie Ha: 6,667" id="3" title="3" target="_blank" skinid="ht_disponible"/>
+      <hotspot tilt="-75.06" pan="-327.98" url="" description="Superficie Ha: 6,667&#xa;" id="4" title="4" target="_blank" skinid="ht_disponible"/>
+      <hotspot tilt="-70.71" pan="-353.97" url="" description="Superficie Ha: 6,667&#xa;" id="5" title="5" target="_blank" skinid="ht_disponible"/>
+      <hotspot tilt="-76.53" pan="-9.61" url="" description="Superficie Ha: 6,667&#xa;" id="6" title="6" target="_blank" skinid="ht_disponible"/>
+      <hotspot tilt="-78.86" pan="-254.17" url="" description="Superficie Ha: 6,667&#xa;" id="7" title="7" target="_blank" skinid="ht_disponible"/>
+      <hotspot tilt="-83.97" pan="-321.74" url="" description="Superficie Ha: 6,667&#xa;" id="8" title="8" target="_blank" skinid="ht_disponible"/>
+      <hotspot tilt="-83.59" pan="-170.54" url="" description="Superficie Ha: 6,667&#xa;" id="9" title="9" target="_blank" skinid="ht_disponible"/>
+      <hotspot tilt="-63.21" pan="-206.55" url="" description="Superficie Ha: 6,667&#xa;" id="10" title="10" target="_blank" skinid="ht_disponible"/>
+      <hotspot tilt="-74.87" pan="-199.85" url="" description="Superficie Ha: 6,667&#xa;" id="11" title="11" target="_blank" skinid="ht_disponible"/>
+      <hotspot tilt="-65.43" pan="-179.4" url="" description="Superficie Ha: 6,667&#xa;" id="12" title="12" target="_blank" skinid="ht_disponible"/>
+      <hotspot tilt="-48.69" pan="-199.35" url="" description="Superficie Ha: 10,332" id="13" title="13" target="_blank" skinid="ht_disponible"/>
+      <hotspot tilt="-42.76" pan="-190" url="" description="Superficie Ha: 10,332" id="14" title="14" target="_blank" skinid="ht_disponible"/>
+      <hotspot tilt="-50.68" pan="-179.93" url="" description="Superficie Ha: 10,332" id="15" title="15" target="_blank" skinid="ht_disponible"/>
       <hotspot tilt="-1.77" pan="-0.74" url="images/futrono.jpg" description="56 min | 58 km" id="Point01" title="Futrono" target="" skinid="ht_tag_georeferencia_mediumRight"/>
       <hotspot tilt="-2.04" pan="-35.58" url="images/Llifen.jpg" description="37 min | 38,2 km" id="Point01" title="Llifen" target="" skinid="ht_tag_georeferencia_largeRight"/>
       <hotspot tilt="-0.98" pan="-98.22" url="images/parquefutangue.jpg" description="22 min | 18,5 km" id="Point01" title="Parque Futangue" target="" skinid="ht_tag_georeferencia_mediumRight"/>
