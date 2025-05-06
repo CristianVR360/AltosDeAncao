@@ -320,8 +320,8 @@ h6 { font-size: 16px; }
 	font-weight: 500;
 	transition: all .3s ease;
 }
-.grax_tm_topbar .menu ul li.current a{color: #578eac;}
-.grax_tm_topbar .menu ul li a:hover{color: #578eac;}
+.grax_tm_topbar .menu ul li.current a{color: #113649;}
+.grax_tm_topbar .menu ul li a:hover{color: #113649;}
 .grax_tm_topbar.animate .menu ul li a{color: #000;}
 
 /*---------------------------------------------------*/
@@ -782,8 +782,8 @@ h6 { font-size: 16px; }
 	text-decoration: none;
     color: #fff;
     display: inline-block;
-    background-color: #578eac;
-	border: 2px solid #578eac;
+    background-color: #113649;
+	border: 2px solid #113649;
     padding: 10px 5px;
     border-radius: 5px;
 	
@@ -812,8 +812,8 @@ h6 { font-size: 16px; }
     text-decoration: none;
     color: #fff;
     display: inline-block;
-    background-color: #578eac;
-    border: 2px solid #578eac;
+    background-color: #113649;
+    border: 2px solid #113649;
     padding: 6px 20px;
     border-radius: 5px;
     box-sizing: border-box; /* Asegura que el padding no aumente el ancho */
@@ -1916,7 +1916,7 @@ body.modal{
 	height: auto;
 	clear: both;
 	float: left;
-	background-color: #000;
+	background-color: #113649;
 	padding: 130px 0px 100px 0px;
 	position: relative;
 }
